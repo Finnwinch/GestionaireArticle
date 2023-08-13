@@ -1,5 +1,4 @@
 /*
- * Cirapci, Léo
  * 8 mai 2023
  * Main programme : Gestionnaire d'article
  */
