@@ -1,5 +1,4 @@
 /*
- * Cirapci, Léo
  * 8 mai 2023
  * Classe de navigation pour VueArticle utilisant la classe Article
  */
