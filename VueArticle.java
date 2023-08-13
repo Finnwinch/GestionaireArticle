@@ -1,5 +1,4 @@
 /*
- * Cirapci, Léo
  * 8 mai 2023
  * Classe de navigation basé sur ModeleVueArticle
  * Comporte une interface JFRame
